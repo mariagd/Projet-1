@@ -1,0 +1,94 @@
+header{
+	background-color: #2F4858;
+	margin-right: 4px;
+}
+.pic{
+	display: inline-block;
+	margin-top: 15px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.bloctext{
+	display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    color: white;
+    padding-left: 200px;
+}
+.colonne {
+	display: inline-block;
+}
+.nom{
+	font-family: times new roman;
+	font-weight: bold;
+}
+h2{
+	font-family: times new roman;
+}
+.italic{
+	font-style: italic;
+	font-family: times new roman;
+	font-size: smaller;
+}
+body{
+	margin: auto ;
+	width: 850px ;
+}
+.column{
+	background-color: #86BBD8;
+	float:left;
+	width:230px;
+	display: block;
+	border-top: solid #9FE694;
+	border-width: 3px;
+	border-bottom: 10px solid #86BBD8;
+	padding-bottom: 5px;
+}
+.Titre{
+	margin-left: 20px;
+	color: #2F4858;
+	font-family: Times new roman;
+	font-weight: bold;
+}
+.info{
+	margin-left: 50px;
+	font-family: Times new roman;
+}
+.back{
+	background-color: #FAF8F8;
+	display: inline-block;
+	padding-bottom: 11px;
+	padding-top: 1px;
+	width: 612px;
+	margin-left: 3px;
+}
+.First{
+	text-align: center;
+	font-weight: bold;
+	font-size: 23px;
+}
+.Post{
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+.Informations{
+	margin-left: 20px;
+	font-size: 14px;
+	font-style: italic;
+	padding-top: 5px;
+}
+.Description{
+	font-size: 14px;
+	margin-left: 20px;
+}
+hr{
+	width: 300px;
+	float: left;
+	height: 2px;
+	color: #9FE694;
+	background-color: #9FE694;
+	border: none;
+	margin-left: 20px;
+}
